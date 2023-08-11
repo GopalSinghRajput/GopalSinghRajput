@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
 [![MasterHead](https://deeplor.s3.us-west-2.amazonaws.com/matting_original/2023/08/11/8ca6d265bd7942e29bfcf71a80e6516d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230811T043902Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20230811%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=6e6ba6fa6c4575c9f8e525a8008516358dc135475649010f0d6ff843cab63f83)](https://github.com/GopalSinghRajput)
 
 I'm currently studying 3rd year CSE with specialization in AI/ML at VIT Chennai. I am a Machine Learning Engineer. I am a Detail oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. An organized and dependable candidate successful at managing multiple priorities with a positive attitude. I am willing to take on added responsibilities to meet team goals. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem- solving skills.
