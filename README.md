@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=c62f3d&height=100&width=500&section=header"/>
 </p>
 
 [![MasterHead](https://deeplor.s3.us-west-2.amazonaws.com/matting_original/2023/08/11/8ca6d265bd7942e29bfcf71a80e6516d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230811T043902Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20230811%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=6e6ba6fa6c4575c9f8e525a8008516358dc135475649010f0d6ff843cab63f83)](https://github.com/GopalSinghRajput)
@@ -50,4 +50,6 @@ I'm currently studying 3rd year CSE with specialization in AI/ML at VIT Chennai.
 
 [![Gopal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GopalSinghRajput&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/GopalSinghRajput/Gopal_Singh_Rajput/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=183565&height=100&section=footer"/>
+</p>
