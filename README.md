@@ -37,7 +37,7 @@ I'm currently studying 3rd year CSE with specialization in AI/ML at VIT Chennai.
 <a href="https://www.linkedin.com/in/gopal_singh">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-singh-s-49b62a166/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
+ <a href="https://www.instagram.com/gopal_singh_rajput_1014/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=twitter&logoColor=white&link=https://www.instagram.com/gopal_singh_rajput_1014/"/>
 </a>
 </p>
