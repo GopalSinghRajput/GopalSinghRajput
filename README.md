@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=c62f3d&height=150&width=500&section=header"/>
 </p>
 
-[![MasterHead](https://deeplor.s3.us-west-2.amazonaws.com/matting_original/2023/08/11/8ca6d265bd7942e29bfcf71a80e6516d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230811T043902Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20230811%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=6e6ba6fa6c4575c9f8e525a8008516358dc135475649010f0d6ff843cab63f83)](https://github.com/GopalSinghRajput)
+[![MasterHead](Your_paragraph_text_1_1932x644 (1).png)](https://github.com/GopalSinghRajput)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=GopalSinghRajput&color=FAC151)
 
