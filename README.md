@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=c62f3d&height=150&width=500&section=header"/>
 </p>
 
-[![MasterHead](Your_paragraph_text_1_1932x644 (1).png)](https://github.com/GopalSinghRajput)
-
+![Image description](image.png "Me")]
 ![GitHub Views](https://komarev.com/ghpvc/?username=GopalSinghRajput&color=FAC151)
 
 I'm currently studying 3rd year CSE with specialization in AI/ML at VIT Chennai. I am a Machine Learning Engineer. I am a Detail oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. An organized and dependable candidate successful at managing multiple priorities with a positive attitude. I am willing to take on added responsibilities to meet team goals. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem- solving skills.
