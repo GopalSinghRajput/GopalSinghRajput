@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=c62f3d&height=150&width=500&section=header"/>
 </p>
 
-<div style="text-align:center">
+<p align="center">
     <img src="img.png" alt="Image" />
-</div>
+</p>
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=GopalSinghRajput&color=FAC151)
