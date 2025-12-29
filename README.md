@@ -9,7 +9,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=GopalSinghRajput&color=FAC151)
 
-I'm currently studying 4th year CSE with specialization in AI/ML at VIT Chennai. I am a Machine Learning Engineer. I am a Detail oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. An organized and dependable candidate successful at managing multiple priorities with a positive attitude. I am willing to take on added responsibilities to meet team goals. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem- solving skills.
+Computer Science graduate student at SDSU (Fall 2025), Undergrad in CSE with specialization in AI/ML at VIT Chennai. I am a Machine Learning Engineer. I am a Detail oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. An organized and dependable candidate successful at managing multiple priorities with a positive attitude. I am willing to take on added responsibilities to meet team goals. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem- solving skills.
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> 
 
