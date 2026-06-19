@@ -299,7 +299,7 @@ Target Roles    :: AI infrastructure · ML systems · applied AI engineering
 ## 🌐 Link Layer
 
 <p align="center">
-  <a href="mailto:gopal.singh.rajput.3256@gmail.com">
+  <a href="mailto:gs1806647@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gopal-singh-s-49b62a166/">
