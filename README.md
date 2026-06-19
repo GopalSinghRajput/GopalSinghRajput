@@ -13,7 +13,7 @@
 <!-- STATUS BADGES -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GopalSinghRajput&label=PROFILE%20SIGNALS&color=06B6D4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GopalSinghRajput&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Infra-Systems%20Layer-020617?style=for-the-badge&labelColor=0f172a&color=06b6d4" />
   <img src="https://img.shields.io/badge/ML%20Systems-Design%20%2B%20Runtime-020617?style=for-the-badge&labelColor=0f172a&color=8b5cf6" />
   <img src="https://img.shields.io/badge/Local--first-AI%20Workflows-020617?style=for-the-badge&labelColor=0f172a&color=22c55e" />
