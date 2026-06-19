@@ -1,7 +1,7 @@
 <!-- FUTURISTIC HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&text=GOPAL%20SINGH%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Infrastructure%20%E2%80%A2%20ML%20Systems%20Design%20%E2%80%A2%20Local-first%20AI%20Runtime&descSize=16&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&text=GOPAL%20SINGH%20SUBRAMANI%20SINGH&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Infrastructure%20%E2%80%A2%20ML%20Systems%20Design%20%E2%80%A2%20Local-first%20AI%20Runtime&descSize=16&descAlignY=62"/>
 </p>
 
 <!-- NEON TYPING STRIP -->
